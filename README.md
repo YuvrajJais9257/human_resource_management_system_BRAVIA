@@ -12,10 +12,10 @@ The system simulates a basic internal HR tool with a clean and functional interf
 ## Live Application
 
 **Frontend (Live):**
-`<ADD_FRONTEND_URL_HERE>`
+[`Frontend`](https://human-resource-management-system-br.vercel.app/)
 
 **Backend API (Live):**
-`<ADD_BACKEND_URL_HERE>/docs`
+[`Backend`](https://hrms-backend-fn87.onrender.com)
 
 ---
 
