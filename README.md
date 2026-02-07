@@ -111,8 +111,10 @@ The system simulates a basic internal HR tool with a clean and functional interf
 ### 1. Clone Repository
 
 ```
-git clone <REPO_URL>
-cd hrms-lite
+git clone https://github.com/YuvrajJais9257/human_resource_management_system_BRAVIA.git
+cd hrms
+git checkout main
+git pull origin main
 ```
 
 ---
